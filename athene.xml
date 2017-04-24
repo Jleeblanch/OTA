@@ -3,10 +3,14 @@
   <stable>
     <athene>
       <Filename>RR-N-v5.8.3-20170423-athene-Official.zip</Filename>
+      <BuildUrl
+          id="build"
+          title="LatestBuild"
+          description="Download Latest Build">https://goo.gl/hTHMxa</BuildUrl>
       <RomUrl
           id="rom"
           title="Rom"
-          description="Download Latest Build">https://drive.google.com/uc?export=download&id=0B4vCptVwQpNFMUxFOTQ0SlJaVjA</RomUrl>
+          description="Previous Builds">https://goo.gl/AMhv0R</RomUrl>
       <ChangelogUrl
           id="changelog"
           title="Update Changelog"
@@ -19,4 +23,6 @@
           id="xda"
           title="Xda"
           description="Visit Moto G4 Resurrection Remix thread">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
-    </athene> 
+    </athene>
+  </stable>
+</SlimOTA>
