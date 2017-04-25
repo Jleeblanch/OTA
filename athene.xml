@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.3-20170423-athene-Official.zip</Filename>
+      <Filename>RR-N-v5.8.3-20170425-athene-Official.zip</Filename>
       <BuildUrl
           id="build"
           title="LatestBuild"
-          description="Download Latest Build">https://goo.gl/hTHMxa</BuildUrl>
+          description="Download Latest Build">https://goo.gl/B7rrDf</BuildUrl>
       <RomUrl
           id="rom"
           title="Rom"
