@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.3-20170503-athene-Official.zip</Filename>
+      <Filename>RR-N-v5.8.3-20170508-athene-Official.zip</Filename>
       <BuildUrl
           id="build"
           title="LatestBuild"
-          description="Download Latest Build">https://goo.gl/K50pCp</BuildUrl>
+          description="Download Latest Build">https://goo.gl/njUQG9</BuildUrl>
       <RomUrl
           id="rom"
           title="Rom"
@@ -16,13 +16,13 @@
           title="Update Changelog"
           description="View changelog of update">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/CHANGELOG.mkdn</ChangelogUrl>
       <GappsUrl
-          id="opengapps"
-          title="OpenGapps"
-          description="Download OpenGapps">http://opengapps.org/</GappsUrl>
+          id="beansgapps"
+          title="BeansGapps"
+          description="Download BeansGapps">https://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192</GappsUrl>
       <XDAUrl
           id="xda"
           title="Xda"
-          description="Visit Moto G4 Resurrection Remix thread">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
+          description="Resurrection Remix [xda] Moto G4/G4 Plus">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
     </athene>
   </stable>
 </SlimOTA>
