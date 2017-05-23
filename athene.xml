@@ -2,27 +2,27 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.3-20170513-athene-Official.zip</Filename>
+      <Filename>RR-N-v5.8.3-20170523-athene-Official.zip</Filename>
       <BuildUrl
           id="build"
           title="LatestBuild"
-          description="Download Latest Build">https://goo.gl/OtK3If</BuildUrl>
+          description="Download Latest Build">https://goo.gl/rQ9Ppn</BuildUrl>
       <RomUrl
           id="rom"
-          title="Rom"
-          description="Previous Builds">https://goo.gl/AMhv0R</RomUrl>
+          title="GDrive"
+          description="Google Drive Link">https://goo.gl/kXNJud</RomUrl>
       <ChangelogUrl
           id="changelog"
-          title="Update Changelog"
-          description="View changelog of update">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/CHANGELOG.mkdn</ChangelogUrl>
+          title="Latest Changelog"
+          description="View the latest Changelog">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/CHANGELOG.mkdn</ChangelogUrl>
       <GappsUrl
-          id="beansgapps"
-          title="BeansGapps"
-          description="Download BeansGapps">https://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192</GappsUrl>
+          id="opengapps"
+          title="OpenGapps"
+          description="Download OpenGapps">https://opengapps.org</GappsUrl>
       <XDAUrl
           id="xda"
           title="Xda"
-          description="Resurrection Remix [xda] Moto G4/G4 Plus">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
+          description="Resurrection Remix ROM [xda] Moto G4/G4 Plus">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
     </athene>
   </stable>
 </SlimOTA>
