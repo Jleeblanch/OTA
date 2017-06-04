@@ -2,15 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.3-20170603-athene-Official.zip</Filename>
+      <Filename>RR-N-v5.8.3-20170604-athene-Official.zip</Filename>
       <BuildUrl
           id="build"
           title="Latest Build (AFH)"
-          description="Download Latest Build">https://goo.gl/bNvDt6</BuildUrl>
+          description="Download Latest Build">https://goo.gl/NJCOlY</BuildUrl>
+      <Firmware
+          id="firmware"
+          title="All Builds (AFH)"
+          description="All RR builds on Android File Host">https://goo.gl/CzsN49</Firmware>
       <RomUrl
           id="rom"
-          title="G-Drive"
-          description="Google Drive Link">https://goo.gl/kXNJud</RomUrl>
+          title="Google Drive"
+          description="All RR builds on Google Drive">https://goo.gl/kXNJud</RomUrl>
       <ChangelogUrl
           id="changelog"
           title="Changelog"
