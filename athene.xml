@@ -2,26 +2,26 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.3-20170602-athene-Official.zip</Filename>
+      <Filename>RR-N-v5.8.3-20170603-athene-Official.zip</Filename>
       <BuildUrl
           id="build"
-          title="LatestBuild"
-          description="Download Latest Build">https://goo.gl/whAiDG</BuildUrl>
+          title="Latest Build (AFH)"
+          description="Download Latest Build">https://goo.gl/bNvDt6</BuildUrl>
       <RomUrl
           id="rom"
-          title="GDrive"
+          title="G-Drive"
           description="Google Drive Link">https://goo.gl/kXNJud</RomUrl>
       <ChangelogUrl
           id="changelog"
-          title="Latest Changelog"
-          description="View the latest Changelog">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/CHANGELOG.mkdn</ChangelogUrl>
+          title="Changelog"
+          description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/CHANGELOG.mkdn</ChangelogUrl>
       <GappsUrl
           id="opengapps"
-          title="OpenGapps"
-          description="Download OpenGapps">https://opengapps.org</GappsUrl>
+          title="OpenGApps"
+          description="Download OpenGApps">https://opengapps.org</GappsUrl>
       <XDAUrl
           id="xda"
-          title="Xda"
+          title="XDA"
           description="Resurrection Remix ROM [xda] Moto G4/G4 Plus">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
     </athene>
   </stable>
