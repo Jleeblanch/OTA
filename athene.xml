@@ -7,10 +7,10 @@
           id="build"
           title="Latest Build (AFH)"
           description="Download Latest Build">https://goo.gl/NJCOlY</BuildUrl>
-      <Firmware
+      <FirmwareUrl
           id="firmware"
           title="All Builds (AFH)"
-          description="All RR builds on Android File Host">https://goo.gl/CzsN49</Firmware>
+          description="All RR builds on Android File Host">https://goo.gl/CzsN49</FirmwareUrl>
       <RomUrl
           id="rom"
           title="Google Drive"
@@ -18,7 +18,7 @@
       <ChangelogUrl
           id="changelog"
           title="Changelog"
-          description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/CHANGELOG.mkdn</ChangelogUrl>
+          description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/RR/CHANGELOG.mkdn</ChangelogUrl>
       <GappsUrl
           id="opengapps"
           title="OpenGApps"
