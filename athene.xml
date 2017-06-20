@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.3-20170613-athene-Official.zip</Filename>
+      <Filename>RR-N-v5.8.3-20170619-athene-Official.zip</Filename>
       <BuildUrl
           id="build"
           title="Latest Build (AFH)"
-          description="Download Latest Build">https://goo.gl/rr6KQN</BuildUrl>
+          description="Download Latest Build">https://goo.gl/my38pe</BuildUrl>
       <FirmwareUrl
           id="firmware"
           title="All Builds (AFH)"
@@ -20,9 +20,9 @@
           title="Changelog"
           description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/RR/CHANGELOG.mkdn</ChangelogUrl>
       <GappsUrl
-          id="opengapps"
-          title="OpenGApps"
-          description="Download OpenGApps">https://opengapps.org</GappsUrl>
+          id="beansgapps"
+          title="Beans GApps"
+          description="Download Beans GApps">https://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192</GappsUrl>
       <XDAUrl
           id="xda"
           title="XDA"
