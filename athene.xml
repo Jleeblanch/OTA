@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.4-20170824-athene-Official.zip</Filename>
+      <Filename>RR-N-v5.8.5-20170925-athene-Official.zip</Filename>
       <BuildUrl
           id="build"
           title="Latest Build (AFH)"
-          description="Download Latest Build">https://goo.gl/XcU2o2</BuildUrl>
+          description="Download the Latest Build">https://goo.gl/xjVAyg</BuildUrl>
       <FirmwareUrl
           id="firmware"
           title="All Builds (AFH)"
@@ -25,8 +25,8 @@
           description="Download Beans GApps">https://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192</GappsUrl>
       <XDAUrl
           id="xda"
-          title="XDA"
-          description="Resurrection Remix ROM [xda] Moto G4/G4 Plus">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
+          title="XDA Forums Thread"
+          description="Visit the Resurrection Remix Forums Thread on XDA">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
     </athene>
   </stable>
 </SlimOTA>
