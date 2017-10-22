@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.5-20170925-athene-Official.zip</Filename>
+      <Filename>RR-N-v5.8.5-20171022-athene-Final.zip</Filename>
       <BuildUrl
           id="build"
           title="Latest Build (AFH)"
-          description="Download the Latest Build">https://goo.gl/xjVAyg</BuildUrl>
+          description="Download the Latest Build">https://goo.gl/8djsRh</BuildUrl>
       <FirmwareUrl
           id="firmware"
           title="All Builds (AFH)"
@@ -26,7 +26,7 @@
       <XDAUrl
           id="xda"
           title="XDA Forums Thread"
-          description="Visit the Resurrection Remix Forums Thread on XDA">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
+          description="Visit the Resurrection Remix Forum Thread on XDA">http://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-n-5-8-0-t3507275</XDAUrl>
     </athene>
   </stable>
 </SlimOTA>
