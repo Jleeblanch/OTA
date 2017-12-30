@@ -2,27 +2,23 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.5-20171122-athene-Final.zip</Filename>
+      <Filename>RR-N-v5.8.5-20171230-athene-Final.zip</Filename>
       <BuildUrl
           id="build"
-          title="Latest Build (AFH)"
-          description="Download the Latest Build">https://goo.gl/EAdWTU</BuildUrl>
+          title="Latest Build (Direct Download)"
+          description="Download the Latest Build">https://goo.gl/a8yht2</BuildUrl>
       <FirmwareUrl
           id="firmware"
-          title="All Builds (AFH)"
+          title="All Builds (AFH) Archive"
           description="All RR builds on Android File Host">https://goo.gl/CzsN49</FirmwareUrl>
-      <RomUrl
-          id="rom"
-          title="Google Drive"
-          description="All RR builds on Google Drive">https://goo.gl/kXNJud</RomUrl>
       <ChangelogUrl
           id="changelog"
           title="Changelog"
-          description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/athene-changelog/master/RR/CHANGELOG.mkdn</ChangelogUrl>
+          description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/Changelog-Release/master/RR/CHANGELOG.mkdn</ChangelogUrl>
       <GappsUrl
           id="beansgapps"
-          title="Beans GApps"
-          description="Download Beans GApps">https://forum.xda-developers.com/android/software/gapps-dynamic-gapps-t3487192</GappsUrl>
+          title="Beans GApps Mini"
+          description="Updated Beans GApps Mini">https://goo.gl/gwi6GE</GappsUrl>
       <XDAUrl
           id="xda"
           title="XDA Forums Thread"
