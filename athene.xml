@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.5-20171230-athene-Final.zip</Filename>
+      <Filename>RR-N-v5.8.5-20180113-athene-Final.zip</Filename>
       <BuildUrl
           id="build"
           title="Latest Build (Direct Download)"
-          description="Download the Latest Build">https://goo.gl/a8yht2</BuildUrl>
+          description="Download the Latest Build">https://goo.gl/PNfV7h</BuildUrl>
       <FirmwareUrl
           id="firmware"
           title="All Builds (AFH) Archive"
@@ -14,11 +14,11 @@
       <ChangelogUrl
           id="changelog"
           title="Changelog"
-          description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/Changelog-Release/master/RR/CHANGELOG.mkdn</ChangelogUrl>
+          description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/Changelog-Release/nougat/RR/CHANGELOG.mkdn</ChangelogUrl>
       <GappsUrl
           id="beansgapps"
           title="Beans GApps Mini"
-          description="Updated Beans GApps Mini">https://goo.gl/gwi6GE</GappsUrl>
+          description="Updated Beans GApps Mini">https://goo.gl/Lvgmok</GappsUrl>
       <XDAUrl
           id="xda"
           title="XDA Forums Thread"
