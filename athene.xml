@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-N-v5.8.5-20180114-athene-Final.zip</Filename>
+      <Filename>RR-N-v5.8.5-20180116-athene-Final.zip</Filename>
       <BuildUrl
           id="build"
           title="Latest Build (Direct Download)"
-          description="Download the Latest Build">https://goo.gl/1cymSp</BuildUrl>
+          description="Download the Latest Build">https://goo.gl/EquTQ6</BuildUrl>
       <FirmwareUrl
           id="firmware"
           title="All Builds (AFH) Archive"
@@ -19,6 +19,10 @@
           id="beansgapps"
           title="Beans GApps Mini"
           description="Updated Beans GApps Mini">https://goo.gl/Lvgmok</GappsUrl>
+      <FPHOMEUrl
+          id="fp-home-enabler"
+          title="Fingerprint Home Enabler"
+          description="FP-HOME-Enabler.zip (latest)">https://goo.gl/B7iVfW</FPHOMEUrl>
       <XDAUrl
           id="xda"
           title="XDA Forums Thread"
