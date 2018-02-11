@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+  <stable>
+    <athene>
+      <Filename>RR-O-v6.0.0-20180210-athene-Official.zip</Filename>
+      <BuildUrl
+          id="build"
+          title="Latest Build (Direct Download)"
+          description="Download the Latest Build">https://goo.gl/huZy4Z</BuildUrl>
+      <ChangelogUrl
+          id="changelog"
+          title="Changelog"
+          description="View the latest changelog">https://raw.githubusercontent.com/Jleeblanch/Changelog-Release/oreo/RR/CHANGELOG.mkdn</ChangelogUrl>
+      <GappsUrl
+          id="oreogapps"
+          title="OpenGapps 8.1 (unofficial)"
+          description="GApps for Oreo 8.1">https://forum.xda-developers.com/android/apps-games/arm-unofficial-opengapps-builds-android-t3743495</GappsUrl>
+      <FPHOMEUrl
+          id="fp-home-enabler"
+          title="Fingerprint Home Enabler (coming soon)"
+          description="FP-HOME-Enabler.zip (latest)"></FPHOMEUrl>
+      <XDAUrl
+          id="xda"
+          title="XDA Forums Thread"
+          description="Visit the Resurrection Remix Forum Thread on XDA">https://forum.xda-developers.com/moto-g4-plus/development/rom-resurrection-remix-v6-0-0-t3747735</XDAUrl>
+    </athene>
+  </stable>
+</SlimOTA>
