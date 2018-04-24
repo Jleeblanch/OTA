@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <stable>
     <athene>
-      <Filename>RR-O-v6.0.0-20180314-athene-Official.zip</Filename>
+      <Filename>RR-O-v6.0.0-20180423-athene-Official.zip</Filename>
       <BuildUrl
           id="build"
           title="Latest Build (Direct Download)"
-          description="Download the Latest Build">https://goo.gl/6dj4PL</BuildUrl>
+          description="Download the Latest Build">http://bit.ly/RR-O-20180423</BuildUrl>
       <ChangelogUrl
           id="changelog"
           title="Changelog"
@@ -15,10 +15,6 @@
           id="oreogapps"
           title="OpenGApps 8.1 (Official)"
           description="GApps for Oreo 8.1 (nano version recommended)">http://opengapps.org</GappsUrl>
-      <FPHOMEUrl
-          id="fp-home-enabler"
-          title="Fingerprint Home Enabler (coming soon)"
-          description="RR-O-FP-HOME-Enabler.zip (latest)"></FPHOMEUrl>
       <XDAUrl
           id="xda"
           title="XDA Forums Thread"
